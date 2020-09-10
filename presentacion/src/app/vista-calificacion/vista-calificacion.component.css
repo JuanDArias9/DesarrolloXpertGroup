@@ -1,0 +1,17 @@
+.title{
+    padding-top: 10px;
+}
+
+.subtitle{
+    padding-bottom: 10px;
+}
+
+#totalPts{
+    color: green;
+    font-size: 27px;
+}
+
+#totalEstrellas{
+    color: yellow;
+    font-size: 63px;
+}
